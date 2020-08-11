@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/TraningRoom3.unity
+- path: Assets/Scenes/TraningRoom4.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
