@@ -55,3 +55,14 @@ The following packages were added:
   com.unity.package-manager-ui@2.2.0
   com.unity.postprocessing@2.1.7
   com.unity.recorder@2.0.3-preview.1
+
+=== Tue Aug 11 20:17:37 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.2.0 to 1.2.1
+  com.unity.postprocessing from version 2.1.7 to 2.2.2
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
